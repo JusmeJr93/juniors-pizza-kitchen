@@ -40,4 +40,4 @@ This is a pizza ordering, responsive web application built using modern web tech
 
 ## Deployment
 
-The app is deployed using Vercel for easy access. You can visit the live version [here]().
+The app is deployed using Vercel for easy access. You can visit the live version [here](https://juniors-pizza-kitchen.vercel.app/).
